@@ -3,3 +3,7 @@ quoteServiceURL: http://quote-service-qa.cfapps.io/quote
 management:
   security:
     enabled: false
+
+
+greeting:
+  displayFortune: true
